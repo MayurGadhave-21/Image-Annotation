@@ -52,7 +52,7 @@ def uploadImage(key, new_height=480):
 
 # About Me UI 
 def annotateImg():
-    st.header("Annotate Image")
+    st.header("Annotate Image Created By Mayur Gadhave Roll No 172")
 
     img = uploadImage("annotation_img")
 
